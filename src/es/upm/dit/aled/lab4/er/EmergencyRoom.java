@@ -124,6 +124,7 @@ public class EmergencyRoom {
 	 */
 	public void admit(Patient patient) {
 		// TODO
+		//Rellenar
 	}
 
 	/**
